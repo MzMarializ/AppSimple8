@@ -1,0 +1,140 @@
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\Pages\package-lock.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Fundamentos\tarea 8\BlazorApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CopyComplete
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Fundamentos\tarea 8\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\Pages\package-lock.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Fundamentos\t8\BlazorApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+C:\Fundamentos\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.Up2Date
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\Pages\package-lock.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Users\Eduardo\Desktop\t8\BlazorApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.Up2Date
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\t8\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\appsettings.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\Pages\package-lock.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.exe
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.deps.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.runtimeconfig.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.RazorAssemblyInfo.cs
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CopyComplete
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\BlazorApp.genruntimeconfig.cache
+C:\Users\maria\Downloads\t8\AppSi\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll

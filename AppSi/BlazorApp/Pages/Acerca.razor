@@ -1,0 +1,16 @@
+@page "/acerca"
+
+<h1>Datos: </h1>
+
+<div class="perfil">
+    <h2>@nombre @apellido</h2>
+    <p><strong>Correo:</strong> @correo</p>
+    <p><strong>Matricula:</strong> @matricula</p>
+</div>
+
+@code {
+    private string nombre = "Marializ";
+    private string apellido = "Disla";
+    private string correo = "20231098@itla.edu.do";
+    private string matricula = "20231098";
+}

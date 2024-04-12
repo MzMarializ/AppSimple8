@@ -1,0 +1,35 @@
+﻿@page "/fetchdata"
+<h1>Conversor de Temperatura</h1>
+
+<div>
+    <label for="temperaturaCelsius">Por favor Ingrese la temperatura en grados Celsius:</label>
+    <input type="number" id="temperaturaCelsius" @bind="temperaturaCelsius" />
+    <button @onclick="ConvertirTemperatura">Convertir</button>
+</div>
+
+@if (resultado != null)
+{
+    <p>Temperatura en Celsius: @temperaturaCelsius</p>
+    <p>Temperatura en Fahrenheit: @resultado.Fahrenheit</p>
+    <p>Temperatura en Kelvin: @resultado.Kelvin</p>
+}
+
+@code {
+    private double temperaturaCelsius;
+    private ResultadoConversionTemperatura resultado;
+
+    private void ConvertirTemperatura()
+    {
+        resultado = new ResultadoConversionTemperatura
+        {
+            Fahrenheit = (temperaturaCelsius * 9 / 5) + 32,
+            Kelvin = temperaturaCelsius + 273.15
+        };
+    }
+
+    private class ResultadoConversionTemperatura
+    {
+        public double Fahrenheit { get; set; }
+        public double Kelvin { get; set; }
+    }
+}
